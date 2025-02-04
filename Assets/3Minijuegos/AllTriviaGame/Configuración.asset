@@ -1,0 +1,614 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fffe87453ccd4a54f8b3860f7de1c058, type: 3}
+  m_Name: "Configuraci\xF3n"
+  m_EditorClassIdentifier: 
+  "Categor\xEDas":
+  - "NombreCategor\xEDa": "Conceptos B\xE1sicos"
+    Preguntas:
+    - Pregunta: Es la ciencia encargada de estudiar las relaciones que se establecen
+        entre los seres vivos y su ambiente.
+      Respuesta1: "Biolog\xEDa"
+      Respuesta2: "Ecolog\xEDa"
+      Respuesta3: "Qu\xEDmica"
+      Respuesta4: "F\xEDsica"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l es el nivel de organizaci\xF3n ecol\xF3gica que incluye
+        todas las poblaciones de diferentes especies que coexisten en un \xE1rea?"
+      Respuesta1: Organismo
+      Respuesta2: "Poblaci\xF3n"
+      Respuesta3: Comunidad
+      Respuesta4: Ecosistema
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 tipo de relaci\xF3n se establece entre un depredador
+        y su presa, donde uno se alimenta del otro?"
+      Respuesta1: Competencia
+      Respuesta2: Mutualismo
+      Respuesta3: Parasitismo
+      Respuesta4: "Depredaci\xF3n"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de un organismo descomponedor
+        en un ecosistema?"
+      Respuesta1: Plantas
+      Respuesta2: "Herb\xEDvoros"
+      Respuesta3: Bacterias
+      Respuesta4: "Carn\xEDvoros"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 muestra una cadena alimentaria? "
+      Respuesta1: La transferencia de nutrientes entre organismos
+      Respuesta2: La competencia por recursos entre organismos
+      Respuesta3: "La interacci\xF3n entre organismos y su h\xE1bitat"
+      Respuesta4: "El flujo de energ\xEDa de un organismo a otro"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFCu\xE1l es el nivel tr\xF3fico ocupado por los productores en
+        una cadena alimentaria?"
+      Respuesta1: "Primer nivel tr\xF3fico"
+      Respuesta2: "Segundo nivel tr\xF3fico"
+      Respuesta3: "Tercer nivel tr\xF3fico"
+      Respuesta4: "Cuarto nivel tr\xF3fico"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de un ciclo biogeoqu\xEDmico?"
+      Respuesta1: Ciclo del agua
+      Respuesta2: Ciclo del dinero
+      Respuesta3: "Ciclo del nitr\xF3geno"
+      Respuesta4: Ciclo de la electricidad
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l de los siguientes describe mejor la relaci\xF3n entre
+        un organismo y su h\xE1bitat? "
+      Respuesta1: Un organismo compitiendo con otro por recursos
+      Respuesta2: Un organismo ayudando a otro en su supervivencia
+      Respuesta3: Un organismo interactuando con su entorno
+      Respuesta4: Un organismo obteniendo alimento de otro
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es la principal fuente de energ\xEDa en la mayor\xEDa
+        de los ecosistemas de la Tierra?"
+      Respuesta1: "Energ\xEDa e\xF3lica"
+      Respuesta2: "Energ\xEDa solar"
+      Respuesta3: "Energ\xEDa geot\xE9rmica"
+      Respuesta4: "Energ\xEDa nuclear"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l es el proceso mediante el cual el carbono regresa a
+        la atm\xF3sfera desde los organismos y los residuos org\xE1nicos en el suelo?"
+      Respuesta1: "Descomposici\xF3n"
+      Respuesta2: "Respiraci\xF3n"
+      Respuesta3: "Fotos\xEDntesis"
+      Respuesta4: "Combusti\xF3n"
+      RespuestaCorrecta: 1
+  - "NombreCategor\xEDa": Biodiversidad
+    Preguntas:
+    - Pregunta: "\xBFQu\xE9 es la biodiversidad?"
+      Respuesta1: "La variabilidad gen\xE9tica dentro de una especie"
+      Respuesta2: "La variedad de ecosistemas en un \xE1rea determinada"
+      Respuesta3: "La presencia de diferentes especies en un h\xE1bitat"
+      Respuesta4: Todas las anteriores
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es una especie en peligro de extinci\xF3n?"
+      Respuesta1: "Una especie que solo existe en un \xE1rea geogr\xE1fica limitada"
+      Respuesta2: "Una especie que ha disminuido dr\xE1sticamente en n\xFAmero y
+        est\xE1 en riesgo de desaparecer"
+      Respuesta3: "Una especie que ha sido erradicada completamente de su h\xE1bitat"
+      Respuesta4: "Una especie que ha sido clasificada como amenazada por una organizaci\xF3n
+        internacional"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de un ecosistema en
+        peligro?"
+      Respuesta1: Bosque tropical
+      Respuesta2: Pradera
+      Respuesta3: "Oc\xE9ano abierto"
+      Respuesta4: Desierto
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es el objetivo principal de la conservaci\xF3n de la
+        biodiversidad?"
+      Respuesta1: Preservar la belleza de la naturaleza
+      Respuesta2: "Mantener el equilibrio ecol\xF3gico"
+      Respuesta3: "Evitar la extinci\xF3n de especies"
+      Respuesta4: Todas las anteriores
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es un \xE1rea protegida?"
+      Respuesta1: "Un lugar donde se realizan investigaciones cient\xEDficas sobre
+        la biodiversidad"
+      Respuesta2: "Un \xE1rea donde solo se permite la visita de turistas"
+      Respuesta3: "Un \xE1rea donde se implementan medidas de conservaci\xF3n para
+        proteger los ecosistemas y las especies"
+      Respuesta4: "Un \xE1rea donde se realiza la explotaci\xF3n sostenible de los
+        recursos naturales"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de una estrategia de
+        conservaci\xF3n ex situ?"
+      Respuesta1: "Establecer corredores ecol\xF3gicos"
+      Respuesta2: "Proteger \xE1reas marinas"
+      Respuesta3: Criar especies en cautiverio
+      Respuesta4: "Restaurar h\xE1bitats degradados"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es un indicador de la salud de un ecosistema?"
+      Respuesta1: "La diversidad de especies presentes en el \xE1rea"
+      Respuesta2: "El tama\xF1o de la poblaci\xF3n humana en el \xE1rea"
+      Respuesta3: "El n\xFAmero de especies extintas en el \xE1rea"
+      Respuesta4: "El nivel de contaminaci\xF3n en el \xE1rea"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es el principal factor que agrava la p\xE9rdida de biodiversidad?"
+      Respuesta1: "Cambio clim\xE1tico"
+      Respuesta2: "Deforestaci\xF3n"
+      Respuesta3: "Contaminaci\xF3n del agua"
+      Respuesta4: Todas las anteriores
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es la fragmentaci\xF3n de h\xE1bitats?"
+      Respuesta1: "La creaci\xF3n de nuevos h\xE1bitats artificiales para las especies"
+      Respuesta2: "La p\xE9rdida gradual de h\xE1bitats debido a la alteraci\xF3n
+        y fragmentaci\xF3n del paisaje"
+      Respuesta3: "La introducci\xF3n de especies ex\xF3ticas en un ecosistema"
+      Respuesta4: "La migraci\xF3n de especies entre diferentes h\xE1bitats"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l es el papel de las reservas naturales en la conservaci\xF3n
+        de la biodiversidad?"
+      Respuesta1: "Proporcionar h\xE1bitats protegidos para especies en peligro de
+        extinci\xF3n"
+      Respuesta2: "Promover la investigaci\xF3n cient\xEDfica sobre la biodiversidad"
+      Respuesta3: "Facilitar la educaci\xF3n ambiental y la conciencia sobre la conservaci\xF3n"
+      Respuesta4: Todas las anteriores
+      RespuestaCorrecta: 4
+  - "NombreCategor\xEDa": "Cambio Clim\xE1tico"
+    Preguntas:
+    - Pregunta: "\xBFCu\xE1l es la principal causa del cambio clim\xE1tico actual?"
+      Respuesta1: "Actividad volc\xE1nica"
+      Respuesta2: "Variaciones naturales en la radiaci\xF3n solar"
+      Respuesta3: Emisiones de gases de efecto invernadero por actividades humanas
+      Respuesta4: "Cambios en la \xF3rbita terrestre"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es el principal gas de efecto invernadero producido
+        por la actividad humana?"
+      Respuesta1: "Di\xF3xido de carbono (CO2)"
+      Respuesta2: Metano (CH4)
+      Respuesta3: "\xD3xido nitroso (N2O)"
+      Respuesta4: Clorofluorocarbonos (CFC)
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1les son algunos de los posibles efectos del cambio clim\xE1tico?"
+      Respuesta1: Aumento del nivel del mar
+      Respuesta2: "Mayor frecuencia de fen\xF3menos clim\xE1ticos extremos"
+      Respuesta3: "Alteraciones en los patrones de precipitaci\xF3n"
+      Respuesta4: Todas las anteriores
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es la mitigaci\xF3n del cambio clim\xE1tico?"
+      Respuesta1: "Adaptarse a los impactos del cambio clim\xE1tico"
+      Respuesta2: Reducir las emisiones de gases de efecto invernadero
+      Respuesta3: "Restaurar los ecosistemas da\xF1ados por el cambio clim\xE1tico"
+      Respuesta4: "Desarrollar tecnolog\xEDas para eliminar los gases de efecto invernadero
+        de la atm\xF3sfera"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es la capa de ozono y c\xF3mo se ha visto afectada por
+        la actividad humana?"
+      Respuesta1: "Es una capa de aire contaminado en la atm\xF3sfera que ha aumentado
+        debido a la actividad humana"
+      Respuesta2: "Es una capa que protege la Tierra de los rayos ultravioleta del
+        sol y se ha adelgazado debido a la liberaci\xF3n de CFCs (clorofluorocarbonos)"
+      Respuesta3: Es una capa de niebla que se forma cerca del suelo y ha aumentado
+        debido a la actividad humana
+      Respuesta4: Es una capa de gases que contribuyen al efecto invernadero y se
+        ha espesado debido a la actividad humana
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFQu\xE9 es la adaptaci\xF3n al cambio clim\xE1tico?"
+      Respuesta1: Reducir las emisiones de gases de efecto invernadero
+      Respuesta2: "Restaurar los ecosistemas da\xF1ados por el cambio clim\xE1tico"
+      Respuesta3: "Cambiar los patrones de consumo hacia formas m\xE1s sostenibles"
+      Respuesta4: "Ajustarse a los impactos del cambio clim\xE1tico y reducir la
+        vulnerabilidad"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es la huella de carbono? "
+      Respuesta1: "La cantidad de di\xF3xido de carbono liberada durante un terremoto"
+      Respuesta2: "La cantidad de di\xF3xido de carbono liberada por la actividad
+        volc\xE1nica"
+      Respuesta3: "La cantidad de di\xF3xido de carbono emitida por una persona,
+        organizaci\xF3n o producto"
+      Respuesta4: "La cantidad de di\xF3xido de carbono que se encuentra en la atm\xF3sfera"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la acidificaci\xF3n oce\xE1nica y c\xF3mo est\xE1
+        relacionada con el cambio clim\xE1tico?"
+      Respuesta1: "El aumento de la acidez en los oc\xE9anos debido a la liberaci\xF3n
+        de gases de efecto invernadero"
+      Respuesta2: El aumento del nivel del mar debido al derretimiento de los casquetes
+        polares
+      Respuesta3: "La liberaci\xF3n de contaminantes en los oc\xE9anos debido a la
+        actividad humana"
+      Respuesta4: "La disminuci\xF3n de la temperatura del agua de los oc\xE9anos
+        debido al cambio clim\xE1tico"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es el objetivo principal del Acuerdo de Par\xEDs?"
+      Respuesta1: "Limitar el aumento de la temperatura global por debajo de 1.5\xB0C
+        o 2\xB0C respecto a los niveles preindustriales"
+      Respuesta2: "Reducir las emisiones de gases de efecto invernadero en un 20%
+        en los pr\xF3ximos 10 a\xF1os"
+      Respuesta3: "Restaurar los ecosistemas da\xF1ados por el cambio clim\xE1tico"
+      Respuesta4: "Desarrollar tecnolog\xEDas para eliminar los gases de efecto invernadero
+        de la atm\xF3sfera"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es el papel de la educaci\xF3n y concienciaci\xF3n en
+        la lucha contra el cambio clim\xE1tico?"
+      Respuesta1: Fomentar estilos de vida sostenibles y reducir las emisiones de
+        gases de efecto invernadero
+      Respuesta2: "Desarrollar tecnolog\xEDas para eliminar los gases de efecto invernadero
+        de la atm\xF3sfera"
+      Respuesta3: "Adaptarse a los impactos del cambio clim\xE1tico"
+      Respuesta4: "Restaurar los ecosistemas da\xF1ados por el cambio clim\xE1tico"
+      RespuestaCorrecta: 1
+  - "NombreCategor\xEDa": "Gesti\xF3n de Recursos H\xEDdricos"
+    Preguntas:
+    - Pregunta: "\xBFCu\xE1l es el porcentaje aproximado de agua dulce disponible
+        en la Tierra?"
+      Respuesta1: 10%
+      Respuesta2: 25%
+      Respuesta3: 50%
+      Respuesta4: 75%
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFCu\xE1l es la principal causa de la escasez de agua dulce en
+        muchas regiones del mundo?"
+      Respuesta1: "Contaminaci\xF3n del agua"
+      Respuesta2: Uso excesivo y desperdicio de agua
+      Respuesta3: "Cambio clim\xE1tico"
+      Respuesta4: "Construcci\xF3n de presas y embalses"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFQu\xE9 es la biodiversidad? "
+      Respuesta1: "La preservaci\xF3n de especies ex\xF3ticas en zool\xF3gicos"
+      Respuesta2: "La variedad de vida en todas sus formas y niveles de organizaci\xF3n"
+      Respuesta3: "La cr\xEDa selectiva de animales y plantas para obtener caracter\xEDsticas
+        deseables"
+      Respuesta4: "La manipulaci\xF3n gen\xE9tica de especies para mejorar su adaptabilidad"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l es el principal objetivo de las \xE1reas protegidas?"
+      Respuesta1: Explotar los recursos naturales de manera sostenible
+      Respuesta2: "Promover la urbanizaci\xF3n y el desarrollo humano en \xE1reas
+        naturales"
+      Respuesta3: Conservar la biodiversidad y los ecosistemas naturales
+      Respuesta4: Crear oportunidades recreativas para las personas
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es la principal fuente de contaminaci\xF3n del agua?"
+      Respuesta1: "Vertidos de petr\xF3leo en los oc\xE9anos"
+      Respuesta2: "Liberaci\xF3n de gases de efecto invernadero en los r\xEDos"
+      Respuesta3: Uso de pesticidas y fertilizantes en la agricultura
+      Respuesta4: "Emisi\xF3n de gases t\xF3xicos en las plantas de energ\xEDa"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es una zona de recarga de acu\xEDferos?"
+      Respuesta1: "Un \xE1rea donde se extrae agua subterr\xE1nea para su uso humano"
+      Respuesta2: "Un \xE1rea donde el agua fluye hacia un r\xEDo o lago"
+      Respuesta3: "Un \xE1rea donde se acumula el agua de lluvia y se filtra hacia
+        el subsuelo"
+      Respuesta4: "Un \xE1rea donde se construyen embalses y presas para almacenar
+        agua"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l de las siguientes acciones contribuye a la conservaci\xF3n
+        del agua en la agricultura?"
+      Respuesta1: "Uso de sistemas de riego por goteo en lugar de sistemas de aspersi\xF3n"
+      Respuesta2: "Aplicaci\xF3n excesiva de fertilizantes y pesticidas en los cultivos"
+      Respuesta3: "Cultivo de especies de plantas no resistentes a la sequ\xEDa"
+      Respuesta4: "Extracci\xF3n de agua subterr\xE1nea sin restricciones"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFQu\xE9 es una zona de amortiguamiento en la conservaci\xF3n
+        del agua?"
+      Respuesta1: "Un \xE1rea donde se proh\xEDbe el acceso p\xFAblico para proteger
+        los recursos h\xEDdricos"
+      Respuesta2: "Un \xE1rea donde se instalan plantas de tratamiento de aguas residuales"
+      Respuesta3: "Un \xE1rea donde se construyen embalses y presas para regular
+        el flujo de agua"
+      Respuesta4: "Un \xE1rea cercana a un cuerpo de agua donde se implementan pr\xE1cticas
+        de manejo sostenible para proteger la calidad del agua"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFC\xF3mo la deforestaci\xF3n afecta a la biodiversidad?"
+      Respuesta1: "La deforestaci\xF3n tiene poco o ning\xFAn impacto en la biodiversidad"
+      Respuesta2: "La deforestaci\xF3n aumenta la diversidad de especies en los ecosistemas"
+      Respuesta3: "La deforestaci\xF3n solo afecta a los animales grandes, mientras
+        que los organismos peque\xF1os no se ven afectados"
+      Respuesta4: "La deforestaci\xF3n disminuye la biodiversidad y amenaza la supervivencia
+        de muchas especies"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es una especie end\xE9mica?"
+      Respuesta1: "Una especie que se encuentra en peligro de extinci\xF3n"
+      Respuesta2: "Una especie que se ha adaptado a diferentes h\xE1bitats"
+      Respuesta3: "Una especie que se encuentra exclusivamente en una regi\xF3n geogr\xE1fica
+        determinada"
+      Respuesta4: "Una especie que se ha dispersado a trav\xE9s de m\xFAltiples continentes"
+      RespuestaCorrecta: 3
+  - "NombreCategor\xEDa": "Contaminaci\xF3n"
+    Preguntas:
+    - Pregunta: "\xBFQu\xE9 es la contaminaci\xF3n ambiental? "
+      Respuesta1: "La introducci\xF3n deliberada de sustancias da\xF1inas al medio
+        ambiente"
+      Respuesta2: "La presencia de cualquier sustancia extra\xF1a en el medio ambiente
+        que cause da\xF1o"
+      Respuesta3: "La emisi\xF3n de gases de efecto invernadero por actividades humanas"
+      Respuesta4: "El cambio en los patrones clim\xE1ticos debido a la actividad
+        humana"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de contaminaci\xF3n
+        del aire?"
+      Respuesta1: "Derrame de petr\xF3leo"
+      Respuesta2: "Emisi\xF3n de gases t\xF3xicos en una planta industrial"
+      Respuesta3: Uso excesivo de fertilizantes en la agricultura
+      Respuesta4: "Liberaci\xF3n de productos qu\xEDmicos en un r\xEDo"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l es el principal contaminante del agua dulce?"
+      Respuesta1: "Pl\xE1sticos"
+      Respuesta2: "Di\xF3xido de carbono"
+      Respuesta3: Mercurio
+      Respuesta4: "Di\xF3xido de azufre"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la contaminaci\xF3n del suelo?"
+      Respuesta1: "La acumulaci\xF3n de sustancias t\xF3xicas en el agua subterr\xE1nea"
+      Respuesta2: "La deposici\xF3n de sedimentos en los r\xEDos y lagos"
+      Respuesta3: "La liberaci\xF3n de gases contaminantes en la atm\xF3sfera"
+      Respuesta4: "La presencia de sustancias da\xF1inas en el suelo debido a actividades
+        humanas"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un ejemplo de contaminante biodegradable?"
+      Respuesta1: Metales pesados
+      Respuesta2: "Pl\xE1sticos"
+      Respuesta3: Restos de alimentos
+      Respuesta4: Pesticidas
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la lluvia \xE1cida y qu\xE9 la causa?"
+      Respuesta1: "Lluvia con un pH \xE1cido, causada por la liberaci\xF3n de gases
+        contaminantes en la atm\xF3sfera"
+      Respuesta2: "Lluvia con un alto contenido de di\xF3xido de carbono, causada
+        por la deforestaci\xF3n"
+      Respuesta3: Lluvia contaminada por desechos industriales, causada por la actividad
+        humana
+      Respuesta4: "Lluvia con un alto contenido de sal, causada por la evaporaci\xF3n
+        del agua de mar"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l de los siguientes es un efecto negativo de la contaminaci\xF3n
+        del agua en los ecosistemas acu\xE1ticos?"
+      Respuesta1: Estabilidad de la biodiversidad
+      Respuesta2: Disminuye la calidad del agua
+      Respuesta3: "Reducci\xF3n de la disponibilidad de ox\xEDgeno"
+      Respuesta4: "Incremento de la poblaci\xF3n de especies acu\xE1ticas"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l de las siguientes actividades humanas provoca la contaminaci\xF3n
+        del suelo?"
+      Respuesta1: Reciclaje de residuos
+      Respuesta2: Uso de pesticidas en la agricultura
+      Respuesta3: "Desprotecci\xF3n de \xE1reas naturales"
+      Respuesta4: "Promoci\xF3n de la energ\xEDa renovable"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFQu\xE9 es el efecto invernadero y c\xF3mo est\xE1 relacionado
+        con la contaminaci\xF3n?"
+      Respuesta1: "El calentamiento global debido a la emisi\xF3n de gases de efecto
+        invernadero"
+      Respuesta2: "El enfriamiento global debido a la reducci\xF3n de la capa de
+        ozono"
+      Respuesta3: "La liberaci\xF3n de gases t\xF3xicos en la atm\xF3sfera debido
+        a la actividad industrial"
+      Respuesta4: "El aumento de la humedad en el aire debido a la deforestaci\xF3n"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFQu\xE9 es la contaminaci\xF3n ac\xFAstica y cu\xE1les son sus
+        efectos?"
+      Respuesta1: La presencia de olores desagradables en el aire, que afecta la
+        calidad de vida de las personas
+      Respuesta2: "La liberaci\xF3n de gases contaminantes en el aire, que causa
+        da\xF1o al medio ambiente"
+      Respuesta3: "La acumulaci\xF3n de basura en el suelo, que afecta la calidad
+        del agua subterr\xE1nea"
+      Respuesta4: "La exposici\xF3n excesiva a ruidos fuertes, que puede causar problemas
+        de salud como estr\xE9s y p\xE9rdida de audici\xF3n"
+      RespuestaCorrecta: 4
+  - "NombreCategor\xEDa": "Energ\xEDas Renovables"
+    Preguntas:
+    - Pregunta: "\xBFQu\xE9 es una fuente de energ\xEDa renovable?"
+      Respuesta1: "Una fuente de energ\xEDa que no se puede agotar"
+      Respuesta2: "Una fuente de energ\xEDa que depende del uso de combustibles f\xF3siles"
+      Respuesta3: "Una fuente de energ\xEDa que se puede agotar"
+      Respuesta4: "Una fuente de energ\xEDa que solo se encuentra en regiones espec\xEDficas"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l de las siguientes fuentes de energ\xEDa es renovable?"
+      Respuesta1: "Petr\xF3leo"
+      Respuesta2: "Carb\xF3n"
+      Respuesta3: "Energ\xEDa nuclear"
+      Respuesta4: "Energ\xEDa solar"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 tecnolog\xEDa aprovecha la energ\xEDa del sol para generar
+        electricidad?"
+      Respuesta1: "Energ\xEDa e\xF3lica"
+      Respuesta2: "Energ\xEDa hidroel\xE9ctrica"
+      Respuesta3: "Energ\xEDa fotovoltaica"
+      Respuesta4: "Energ\xEDa geot\xE9rmica"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l de las siguientes es una caracter\xEDstica propia de
+        las energ\xEDas renovables?"
+      Respuesta1: "Afectan al cambio clim\xE1tico debido a las emisiones de gases
+        de efecto invernadero"
+      Respuesta2: "Son limitadas y se agotar\xE1n en un futuro cercano"
+      Respuesta3: "Son una fuente inagotable de energ\xEDa"
+      Respuesta4: "Generan residuos t\xF3xicos y peligrosos"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la energ\xEDa e\xF3lica?"
+      Respuesta1: "La energ\xEDa generada por el viento "
+      Respuesta2: "La energ\xEDa generada por el calor del interior de la Tierra"
+      Respuesta3: "La energ\xEDa generada por el movimiento de las olas del mar"
+      Respuesta4: "La energ\xEDa generada por la radiaci\xF3n solar"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es la principal fuente de energ\xEDa renovable utilizada
+        a nivel mundial?"
+      Respuesta1: "Energ\xEDa solar"
+      Respuesta2: "Energ\xEDa e\xF3lica"
+      Respuesta3: "Energ\xEDa hidroel\xE9ctrica"
+      Respuesta4: "Energ\xEDa geot\xE9rmica"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la biomasa como fuente de energ\xEDa renovable?"
+      Respuesta1: "El uso de plantas y materia org\xE1nica para generar electricidad
+        o calor"
+      Respuesta2: El uso de algas marinas para generar electricidad
+      Respuesta3: El uso de minerales y rocas para generar electricidad
+      Respuesta4: "El uso de desechos qu\xEDmicos y t\xF3xicos para generar electricidad"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l de las siguientes tecnolog\xEDas utiliza el calor del
+        interior de la Tierra para generar electricidad?"
+      Respuesta1: "Energ\xEDa fotovoltaica"
+      Respuesta2: "Energ\xEDa geot\xE9rmica"
+      Respuesta3: "Energ\xEDa hidroel\xE9ctrica"
+      Respuesta4: "Energ\xEDa e\xF3lica"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFQu\xE9 es la energ\xEDa mareomotriz? "
+      Respuesta1: "La energ\xEDa generada por el movimiento de las mareas del mar"
+      Respuesta2: "La energ\xEDa generada por el calor del interior de la Tierra"
+      Respuesta3: "La energ\xEDa generada por el viento "
+      Respuesta4: "La energ\xEDa generada por la radiaci\xF3n solar "
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es uno de los desaf\xEDos principales para la adopci\xF3n
+        masiva de las energ\xEDas renovables?"
+      Respuesta1: Su alta disponibilidad y bajo costo
+      Respuesta2: "La falta de tecnolog\xEDas adecuadas para su implementaci\xF3n"
+      Respuesta3: La dependencia de recursos limitados
+      Respuesta4: "La incompatibilidad con las redes de distribuci\xF3n de energ\xEDa
+        existentes"
+      RespuestaCorrecta: 4
+  - "NombreCategor\xEDa": Desarrollo Sostenible
+    Preguntas:
+    - Pregunta: "\xBFQu\xE9 es el desarrollo sostenible? "
+      Respuesta1: "El desarrollo econ\xF3mico a expensas del medio ambiente"
+      Respuesta2: El desarrollo social sin considerar el impacto ambiental
+      Respuesta3: "El equilibrio entre el desarrollo econ\xF3mico, social y ambiental
+        a largo plazo"
+      Respuesta4: "El crecimiento econ\xF3mico sin considerar las necesidades sociales"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es uno de los principales objetivos del desarrollo sostenible? "
+      Respuesta1: "Reducir la desigualdad social entre los pa\xEDses"
+      Respuesta2: Preservar la biodiversidad y los ecosistemas naturales
+      Respuesta3: "Promover el crecimiento econ\xF3mico"
+      Respuesta4: Incrementar el consumo de recursos naturales
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l de los siguientes principios es fundamental para el
+        desarrollo sostenible?"
+      Respuesta1: Utilizar los recursos naturales de manera indiscriminada
+      Respuesta2: "Maximizar la producci\xF3n y el consumo"
+      Respuesta3: Satisfacer las necesidades presentes sin comprometer las necesidades
+        futuras
+      Respuesta4: "Priorizar el beneficio econ\xF3mico a corto plazo"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFQu\xE9 es la huella ecol\xF3gica?"
+      Respuesta1: "El impacto ambiental de una persona o comunidad en t\xE9rminos
+        de consumo de recursos naturales y emisiones de carbono"
+      Respuesta2: "La cantidad de tierra necesaria para la construcci\xF3n de edificios
+        y carreteras"
+      Respuesta3: "La unidad de medida de la biodiversidad en un ecosistema espec\xEDfico"
+      Respuesta4: "La cantidad de agua utilizada por una persona o comunidad en un
+        a\xF1o"
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l es uno de los principios clave de la gesti\xF3n sostenible
+        de los recursos naturales?"
+      Respuesta1: "Utilizar los recursos sin restricciones para maximizar los beneficios
+        econ\xF3micos"
+      Respuesta2: 'Conservar los recursos naturales sin considerar las necesidades
+        humanas '
+      Respuesta3: Equilibrar el uso de los recursos para satisfacer las necesidades
+        presentes y futuras
+      Respuesta4: 'Explotar los recursos naturales '
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l de las siguientes pr\xE1cticas promueve la sostenibilidad
+        en la agricultura?"
+      Respuesta1: "Uso de fertilizantes y pesticidas qu\xEDmicos"
+      Respuesta2: "Rotaci\xF3n de cultivos y uso de t\xE9cnicas de agricultura org\xE1nica"
+      Respuesta3: "Deforestaci\xF3n para ampliar las \xE1reas de cultivo"
+      Respuesta4: "Irrigaci\xF3n excesiva sin considerar la disponibilidad de agua"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFQu\xE9 es la econom\xEDa circular?"
+      Respuesta1: "Un modelo econ\xF3mico basado en el crecimiento sin l\xEDmites"
+      Respuesta2: "Un modelo econ\xF3mico que prioriza el beneficio econ\xF3mico
+        sin considerar el impacto ambiental"
+      Respuesta3: "Un modelo econ\xF3mico que promueve la reutilizaci\xF3n, el reciclaje
+        y la reducci\xF3n de residuos"
+      Respuesta4: "Un modelo econ\xF3mico que fomenta la exportaci\xF3n de recursos
+        naturales"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es uno de los beneficios sociales del desarrollo sostenible?"
+      Respuesta1: "Aumento de la desigualdad y la exclusi\xF3n"
+      Respuesta2: "Tener acceso a servicios b\xE1sicos como educaci\xF3n y salud"
+      Respuesta3: "Concentraci\xF3n del poder econ\xF3mico en manos de unos pocos"
+      Respuesta4: Mejora de la calidad de vida de las comunidades locales
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFQu\xE9 es la ecoeficiencia?"
+      Respuesta1: "La maximizaci\xF3n de la producci\xF3n y el consumo"
+      Respuesta2: "La utilizaci\xF3n de tecnolog\xEDas obsoletas y contaminantes"
+      Respuesta3: "La reducci\xF3n del consumo de recursos y la minimizaci\xF3n de
+        los impactos ambientales en los procesos de producci\xF3n"
+      Respuesta4: "El incremento del uso de combustibles f\xF3siles"
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es uno de los principios de la planificaci\xF3n urbana
+        sostenible?"
+      Respuesta1: "Fomentar la densificaci\xF3n urbana y el uso eficiente del suelo"
+      Respuesta2: "Priorizar el transporte individual sobre el transporte p\xFAblico
+        y la movilidad sostenible"
+      Respuesta3: "Ignorar la conservaci\xF3n de espacios verdes y \xE1reas naturales
+        en las ciudades"
+      Respuesta4: "Promover la expansi\xF3n urbana"
+      RespuestaCorrecta: 1
+  - "NombreCategor\xEDa": "Clasificaci\xF3n de Residuos"
+    Preguntas:
+    - Pregunta: "\xBFEn qu\xE9 color de tacho debe ir el papel y cart\xF3n?"
+      Respuesta1: Rojo
+      Respuesta2: Azul
+      Respuesta3: Verde
+      Respuesta4: Amarillo
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFEn qu\xE9 color de tacho debe ir el vidrio?"
+      Respuesta1: Rojo
+      Respuesta2: Azul
+      Respuesta3: Verde
+      Respuesta4: Amarillo
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFEn qu\xE9 color de tacho deben ir los residuos peligrosos?"
+      Respuesta1: Rojo
+      Respuesta2: Azul
+      Respuesta3: Verde
+      Respuesta4: Amarillo
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFEn qu\xE9 color de tacho deben ir los residuos met\xE1licos?"
+      Respuesta1: Rojo
+      Respuesta2: Azul
+      Respuesta3: Verde
+      Respuesta4: Amarillo
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFEn qu\xE9 color de tacho debe ir los residuos org\xE1nicos (restos
+        de comida, c\xE1scaras, etc.)?"
+      Respuesta1: Blanco
+      Respuesta2: Rojo
+      Respuesta3: Verde
+      Respuesta4: "Marr\xF3n"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFEn qu\xE9 color de tacho debe ir los residuos pl\xE1sticos?"
+      Respuesta1: Blanco
+      Respuesta2: Rojo
+      Respuesta3: Verde
+      Respuesta4: "Marr\xF3n"
+      RespuestaCorrecta: 2
+    - Pregunta: "\xBFCu\xE1l de las siguientes plantas en peligro de extinci\xF3n
+        en Per\xFA es conocida por sus propiedades medicinales?"
+      Respuesta1: Quina
+      Respuesta2: "Orqu\xEDdea"
+      Respuesta3: Aliso
+      Respuesta4: Huarango
+      RespuestaCorrecta: 1
+    - Pregunta: "\xBFCu\xE1l de las siguientes plantas en peligro de extinci\xF3n
+        en Per\xFA es un \xE1rbol emblem\xE1tico?"
+      Respuesta1: Cedro
+      Respuesta2: Puya Raimondii
+      Respuesta3: Tara
+      Respuesta4: Yareta
+      RespuestaCorrecta: 3
+    - Pregunta: "\xBFCu\xE1l es el animal nacional del Per\xFA?"
+      Respuesta1: "Vicu\xF1a"
+      Respuesta2: Cuy
+      Respuesta3: Llama
+      Respuesta4: "C\xF3ndor de los Andes"
+      RespuestaCorrecta: 4
+    - Pregunta: "\xBFCu\xE1l es la monta\xF1a m\xE1s alta del Per\xFA?"
+      Respuesta1: Ausangate
+      Respuesta2: "Huascar\xE1n"
+      Respuesta3: "Yerupaj\xE1"
+      Respuesta4: Everest
+      RespuestaCorrecta: 2

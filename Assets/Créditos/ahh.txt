@@ -1,0 +1,125 @@
+scenario: https://rottingpixels.itch.io/nature-platformer-tileset?download
+
+Pixels: https://pixelfrog-assets.itch.io/pixel-adventure-1
+
+Pixels de VIda: https://nicolemariet.itch.io/pixel-heart-animation-32x32-16x16-freebie
+
+Menu de pausa: https://www.vecteezy.com/vector-art/14894542-8-bit-pixel-text-game-pause-menu-background-icon-for-game-assets-in-vector-illustrations
+
+Asset de fondo:
+https://assetstore.unity.com/packages/2d/environments/sunnyland-woods-129708
+
+Boton play
+https://www.freepik.com/premium-vector/pixel-art-game-buttons-start-play-off-icon-8bit-game-white-background_26431881.htm
+
+Bambú
+https://www.pinterest.es/pin/802274121099145959/?amp_client_id=CLIENT_ID%28_%29&mweb_unauth_id=&simplified=true
+
+Tutoriales:
+
+https://www.youtube.com/@BigfootCodes
+juego trivia
+
+https://www.youtube.com/@RocketJam
+guía básica de unity
+sistema de vidas y enemigos
+
+https://www.youtube.com/@otukenn79
+interfaz de 5 ventanas
+
+https://www.youtube.com/@Kowixo
+controles android
+
+https://www.youtube.com/@HowTutsOfficial
+boton con sonido
+
+https://www.youtube.com/@ButterGames
+menú de pausa
+
+https://www.youtube.com/watch?v=WQiUbygVLmg
+opciones menu pausa y correción a 0f
+
+https://www.youtube.com/watch?v=uuppArOv_XM
+botones para cambiar escenas
+
+https://www.youtube.com/@tutorialesdingo8767
+plataforma en movimiento
+
+https://www.youtube.com/watch?v=7bJT6rf-Jvk
+fondo con movimiento
+
+https://www.youtube.com/watch?v=-6H-uYh80vc
+background scrolling
+
+https://www.youtube.com/watch?v=kWRyZ3hb1Vc&t=234s
+drag and drop system
+
+https://www.youtube.com/watch?v=9Y8GaA9Ka9E&list=PLFfAOSClvXOl33OY2PInFeEe6ckd4fqTA&index=5
+sistema de disparo
+
+
+https://www.youtube.com/watch?v=j_WevuGeTmg
+sitema puntos
+
+https://www.youtube.com/watch?v=0u2R9MDi-_w&pp=ygUSa25vY2tiYWNrIHVuaXR5IDJk
+knockback 
+
+
+https://www.youtube.com/watch?v=9A-kE0Y_R_k
+sistema de puntos
+
+https://www.youtube.com/watch?v=2aAQmRQP57c&t=650s
+sitema desbloquear con puntos
+
+
+https://www.youtube.com/watch?v=2PKBChN10us
+sistema de seleccion de personajes
+
+https://www.youtube.com/watch?v=0tDPxNB2JNs
+sistema de barra de vida
+
+https://www.youtube.com/watch?v=rO8eOhF8bgE
+sistema Checkpoint
+
+https://www.youtube.com/watch?v=4pl8DcsCQ_k
+sistema mask
+
+https://www.youtube.com/watch?v=2aAQmRQP57c&t=469s
+sistema PlayerPrefs
+
+https://www.youtube.com/watch?v=-O7zeq7xMLw
+sistema tabla de puntuaciones
+
+https://www.youtube.com/watch?v=-FO-qM_Ww9Q
+rectangulo con bordes
+
+https://www.youtube.com/watch?v=rAqyi85IAJ0
+scrollbarText
+
+
+PLANTAS:
+ORQUIDEA PERUANA
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickriver.com%2Fphotos%2Forquideologia%2F19209206809%2F&psig=AOvVaw0DAx5kynOzjZzoHlHhSOmV&ust=1684106672330000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCJjOsra48_4CFQAAAAAdAAAAABAa
+
+https://www.ecologiaverde.com/plantas-en-peligro-de-extincion-en-el-peru-3092.html
+
+
+
+
+
+ANIMALES:
+
+
+
+
+IDEAS:
+
+juego de clasificar la basura,
+
+del cielo van cayendo items
+
+debemos clasificarlos en el tacho antes de que caigan al rio
+
+si cae mucha basura al rio, entonces pierde el juego
+
+si clasifica mal, entonces los objetos caen más rapido
